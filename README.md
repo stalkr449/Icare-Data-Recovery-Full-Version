@@ -233,3 +233,6 @@ This repository serves as the official landing page for iCare Data Recovery. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of iCare Data Recovery today!**
+
+---
+**Last updated:** 2026-09-11 13:56:05 UTC
